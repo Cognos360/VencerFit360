@@ -1,0 +1,33 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Academia Vencer-Fit
+
+## Media
+
+### Title
+panorama_A1A612FE_B261_8F1E_41DE_080161ABD162.label = IMG_20230917_104321_00_385_PureShot-denoise-denoise
+panorama_A35196D8_B1E3_7762_419E_18730921A2C0.label = dji_fly_20230917_093826_107_1696984669544_pano_optimized
+panorama_A5D68AB7_B1AF_BF2D_4184_CD736B01B3BF.label = IMG_20230917_103714_00_373_PureShot-denoise-denoise
+panorama_BB522973_B1A7_9D26_41D1_A1E8C3C72ED3.label = IMG_20230917_105053_00_397_PureShot-denoise-denoise
+panorama_BB527347_B1A7_8D6E_41C3_EF809FE279BD.label = IMG_20230917_104605_00_394_PureShot-denoise-denoise
+panorama_BB5284ED_B1A7_8B22_41E3_BE84F34E5CE9.label = IMG_20230917_105256_00_399_PureShot-denoise-denoise
+panorama_BB52CE1B_B1A7_B6E6_41D2_6B2E0A60E76F.label = IMG_20230917_104842_00_395_PureShot-denoise-denoise
+panorama_BB5342A2_B1A6_8F27_41DC_03E052FF8213.label = IMG_20230917_105933_00_407_PureShot-denoise-denoise
+panorama_BB535B5A_B1A6_9D66_41D8_138E5C24E8CF.label = IMG_20230917_105653_00_404_PureShot-denoise-denoise
+panorama_BB53991B_B1A6_FAE6_41E5_AFCED44B5C17.label = IMG_20230917_110506_00_416_PureShot-denoise-denoise
+panorama_BB539E4A_B1A6_9767_41E0_0BB0EE31D688.label = IMG_20230917_110120_00_409_PureShot-denoise-denoise
+panorama_BB53B6CC_B1A6_B762_41AA_58F1D4238D48.label = IMG_20230917_105806_00_405_PureShot-denoise-denoise
+panorama_BB53D06C_B1A6_8B23_41DB_1641A791C16B.label = IMG_20230917_105429_00_401_PureShot-denoise-denoise
+
+## Action
+
+### URL
+LinkBehaviour_93CA0511_B26E_8AE5_41D9_2108333E005F.source = https://api.whatsapp.com/send?phone=5538997460561
+LinkBehaviour_93CA5510_B26E_8AE2_41D0_AD5A7E51D583.source = https://www.instagram.com/vencerfitacademia/
+LinkBehaviour_ADBF438A_B266_8DE7_41C0_8741CE89A026.source = https://api.whatsapp.com/send?phone=5538997460561
+LinkBehaviour_AF69F964_B262_BD22_41D2_C5638574BD6E.source = https://www.instagram.com/vencerfitacademia/
